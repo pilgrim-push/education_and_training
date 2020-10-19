@@ -31,4 +31,4 @@ Theory and practice around software engineering fundamentals
 
 [Clean Architecture](books/clean_archicture)
 
-Знаю и умею применять моделей данных "DW BUS Architecture", "Hub-and-spoke Corporate Information Factory", "Data Vault". Имею представление о Data Governance
+"DW BUS Architecture", "Hub-and-spoke Corporate Information Factory", "Data Vault". Имею представление о Data Governance
